@@ -1,4 +1,5 @@
-server:
-  port: 8820
-  servlet:
-    context-path: / 
+data:
+  env: zwcscq2
+  user:
+    username: enjoyz2
+    password: enjoyz2
